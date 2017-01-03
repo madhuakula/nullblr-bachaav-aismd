@@ -10,6 +10,8 @@ null Bangalore Bachaav, 10th December 2016
 ## Hello everyone :)
 #### Welcome to awesome workshop!
 
+All files, references and resources can be found at [https://github.com/madhuakula/nullblr-bachaav-aismd](https://github.com/madhuakula/nullblr-bachaav-aismd)
+
 ----
 
 ## SCHEDULE
@@ -98,16 +100,6 @@ Note: All your assets in an enterprisey environment. The routers, firewalls, web
 - Open source contributor
 - Never ending learner!
 - Twitter: [@madhuakula](https://twitter.com/@madhuakula)
-
-
-----
-
-### About Appsecco
-Enable companies to design, specify, develop and purchase software that is secure
-
-Work with companies to test existing software they have for security issues and give them the information they need to fix any problems we find
-
-Ensure that companies can recover from security incidents they suffer and work with them to stop them from reoccurring
 
 ---
 
@@ -1681,11 +1673,6 @@ App credentials were provided
 ----
 
 ![MITM decoded password](images/pentest/BasicAuthOverHTTP-2.png)
-
-----
-
-Drop us a note if you want the complete pentest report<br />
-contact@appsecco.com
 
 ---
 
